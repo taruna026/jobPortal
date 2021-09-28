@@ -7,7 +7,7 @@ Company name,
 Job Title,
 Skill keywords,
 Job Description,
-Location,
+Location
 
 1. Job Applicants can search for jobs using location and keywords
 2. Search by Job ID
