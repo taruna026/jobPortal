@@ -9,6 +9,7 @@ Skill keywords,
 Job Description,
 Location
 
+Having following functionality --
 1. Job Applicants can search for jobs using location and keywords
 2. Search by Job ID
 3. Filter by keywords
